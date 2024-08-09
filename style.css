@@ -19,7 +19,7 @@ body {
 .hero {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(Tropical\ Flowers.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i.pinimg.com/originals/36/0c/f4/360cf4874b2d50ff91256ffbbb21e93c.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
